@@ -1,0 +1,1 @@
+jupyter notebook --notebook-dir="T:\__Practice (DS & ML)\Data Science\Fake news detection"
